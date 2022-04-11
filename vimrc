@@ -4,6 +4,7 @@ Plug 'majutsushi/tagbar'
 Plug 'flazz/vim-colorschemes'
 Plug 'fatih/vim-go'
 Plug 'valloric/youcompleteme'
+Plug 'tpope/vim-fugitive'
 call plug#end()
 
 colorscheme jellybeans
