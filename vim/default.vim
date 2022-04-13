@@ -6,3 +6,4 @@ set re=2
 set cursorline
 set number
 set bs=2
+set hlsearch
