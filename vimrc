@@ -5,6 +5,7 @@ Plug 'flazz/vim-colorschemes'
 Plug 'fatih/vim-go'
 Plug 'valloric/youcompleteme'
 Plug 'tpope/vim-fugitive'
+Plug 'terryma/vim-multiple-cursors'
 call plug#end()
 
 colorscheme jellybeans
