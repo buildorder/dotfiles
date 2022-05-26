@@ -7,3 +7,6 @@ set cursorline
 set number
 set bs=2
 set hlsearch
+set colorcolumn=80
+
+highlight ColorColumn ctermbg=238
