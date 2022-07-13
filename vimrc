@@ -8,6 +8,7 @@ Plug 'valloric/youcompleteme'
 Plug 'tpope/vim-fugitive'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'bling/vim-airline'
+Plug 'vim-scripts/OmniCppComplete'
 call plug#end()
 
 colorscheme jellybeans
