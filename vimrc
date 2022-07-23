@@ -9,6 +9,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'bling/vim-airline'
 Plug 'vim-scripts/OmniCppComplete'
+Plug 'nathanaelkane/vim-indent-guides'
 call plug#end()
 
 colorscheme jellybeans
