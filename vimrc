@@ -1,15 +1,28 @@
 call plug#begin('~/.vim/plugged')
-Plug 'preservim/nerdtree'
-Plug 'Xuyuanp/nerdtree-git-plugin'
-Plug 'majutsushi/tagbar'
-Plug 'flazz/vim-colorschemes'
+" Language
 Plug 'fatih/vim-go'
+
+" Completion
 Plug 'valloric/youcompleteme'
-Plug 'tpope/vim-fugitive'
-Plug 'terryma/vim-multiple-cursors'
-Plug 'bling/vim-airline'
 Plug 'vim-scripts/OmniCppComplete'
+
+" Code display
+Plug 'bling/vim-airline'
+
+" Integration
+Plug 'tpope/vim-fugitive'
+Plug 'Xuyuanp/nerdtree-git-plugin'
+
+" Interface
+Plug 'preservim/nerdtree'
+Plug 'majutsushi/tagbar'
 Plug 'nathanaelkane/vim-indent-guides'
+
+" Commands
+Plug 'terryma/vim-multiple-cursors'
+
+" Other
+Plug 'flazz/vim-colorschemes'
 call plug#end()
 
 colorscheme jellybeans
