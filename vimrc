@@ -23,9 +23,10 @@ Plug 'terryma/vim-multiple-cursors'
 
 " Other
 Plug 'flazz/vim-colorschemes'
+Plug 'sainnhe/gruvbox-material'
 call plug#end()
 
-colorscheme jellybeans
+colorscheme gruvbox-material
 
 source ~/.vim/default.vim 
 source ~/.vim/vim-go.vim
