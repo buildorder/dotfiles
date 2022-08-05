@@ -31,3 +31,4 @@ colorscheme gruvbox-material
 source ~/.vim/default.vim 
 source ~/.vim/vim-go.vim
 source ~/.vim/map.vim
+source ~/.vim/autocmd.vim
