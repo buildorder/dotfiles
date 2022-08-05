@@ -9,6 +9,6 @@ set bs=2
 set hlsearch
 set noswapfile
 
-# Eliminating delays on ESC
+" Eliminating delays on ESC
 set timeoutlen=1000 
 set ttimeoutlen=0
