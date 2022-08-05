@@ -8,6 +8,7 @@ set number
 set bs=2
 set hlsearch
 set noswapfile
+set bg=dark
 
 " Eliminating delays on ESC
 set timeoutlen=1000 
