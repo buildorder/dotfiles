@@ -20,6 +20,7 @@ Plug 'majutsushi/tagbar'
 Plug 'nathanaelkane/vim-indent-guides'
 
 " Commands
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'terryma/vim-multiple-cursors'
 
 " Other
