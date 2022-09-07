@@ -13,3 +13,5 @@ set bg=dark
 " Eliminating delays on ESC
 set timeoutlen=1000 
 set ttimeoutlen=0
+
+set updatetime=300
