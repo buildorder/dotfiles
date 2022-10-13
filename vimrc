@@ -3,7 +3,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'fatih/vim-go'
 
 " Completion
-Plug 'valloric/youcompleteme'
+" Plug 'valloric/youcompleteme'
 Plug 'vim-scripts/OmniCppComplete'
 
 " Code display
@@ -22,6 +22,7 @@ Plug 'nathanaelkane/vim-indent-guides'
 " Commands
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'terryma/vim-multiple-cursors'
+Plug 'andrewradev/splitjoin.vim'
 
 " Other
 Plug 'flazz/vim-colorschemes'
